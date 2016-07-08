@@ -1,0 +1,30 @@
+{
+  "name": "coinstac-setup",
+  "version": "0.0.1",
+  "description": "Helper script for setting up COINSTAC for local development.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "coinstac",
+    "setup"
+  ],
+  "author": "Cory Reed <swashcap@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.12.0",
+    "commander": "^2.9.0",
+    "funny-versions": "0.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swashcap/coinstac-setup.git"
+  },
+  "bugs": {
+    "url": "https://github.com/swashcap/coinstac-setup/issues"
+  },
+  "homepage": "https://github.com/swashcap/coinstac-setup"
+}
