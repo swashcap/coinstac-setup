@@ -34,5 +34,5 @@ Alternatively, you can pass some flags:
 node index.js \
   --computation laplacian \
   --database https://coinstac-dev.mrn.org \
-  -- username bob
+  --username myUsername
 ```
